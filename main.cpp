@@ -63,5 +63,5 @@ int main() {
     cout << "Вы угадали число!" << endl;
     
 
-    return 0;
+    return 0; 
 }
